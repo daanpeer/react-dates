@@ -92,7 +92,7 @@
     "karma-webpack": "^2.0.9",
     "mocha": "^3.5.3",
     "mocha-wrap": "^2.1.1",
-    "moment": "^2.22.1",
+    "moment": "^2.22.2",
     "moment-jalaali": "^0.7.2",
     "node-sass": "^4.9.0",
     "nyc": "^11.6.0",
